@@ -1,0 +1,20 @@
+{
+  "mode": "live",
+  "target_minutes": 10,
+  "shorts_count": 2,
+  "language": "es",
+  "llm_provider": "",
+  "voice": "es-PA-MargaritaNeural-Female",
+  "visual_provider": "pexels",
+  "local_visuals": [],
+  "asset_license_note": "",
+  "music_file": "",
+  "sound_effect_file": "",
+  "audio_license_note": "",
+  "subtitles": "edge",
+  "width": 640,
+  "threads": 1,
+  "allow_llm_requests": false,
+  "llm_estimate_usd": 0.10,
+  "budget_usd": 0
+}
